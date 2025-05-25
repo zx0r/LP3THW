@@ -58,26 +58,9 @@ This repository contains all exercises from the book, enhanced with modern Pytho
    pip install -r requirements.txt
    ```
 
-4. **Run the code quality tools**
-   ```bash
-   black . && flake8 . && mypy .
-   ```
-
-5. **Run tests**
-   ```bash
-   pytest
-   ```
-
-6. **Explore and edit exercises**
+4. **Explore and edit exercises**
    - Start with `ex1.py` or the Jupyter notebook.
    - Modify, refactor, and add tests as you learn.
-
-## Contributing
-
-Contributions are welcome! Please:
-- Follow the code style enforced by `black` and `flake8`
-- Write or update tests for any code changes
-- Use descriptive commit messages
 
 ## License
 
